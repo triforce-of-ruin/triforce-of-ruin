@@ -1,5 +1,6 @@
 <div align="center">
-<img width="500" height="340" alt="1000016369" src="https://github.com/user-attachments/assets/89a685a5-5364-4a71-90c8-bd4f30950561" />
+
+
 <!--
 **triforce-of-ruin/triforce-of-ruin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
